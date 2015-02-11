@@ -50,7 +50,7 @@ group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
 
-group :production do
-gem 'sqlite3', '~> 1.3.10'
-gem 'rails_12factor', '0.0.2'
-end
+#group :production do
+#gem 'sqlite3', '~> 1.3.10'
+#gem 'rails_12factor', '0.0.2'
+#end
